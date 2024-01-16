@@ -23,3 +23,7 @@ Before you begin, ensure you have the following installed:
 To get started with this project, clone the repository to your local machine:
 ```bash
 git clone https://github.com/Tumaini98/EntityFrameworkCrud.git
+```
+
+# Contributing
+Contributions are welcome! If you have improvements or bug fixes, feel free to fork the repository and submit a pull request.
